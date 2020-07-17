@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "Daily Dose | Imoh Jackson"
 theme = "hugo-theme-novela"
